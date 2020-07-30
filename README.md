@@ -1,2 +1,2 @@
-# Thugs_But_Whole
+# Discord_Code
 Code for a Discord Bot
